@@ -1,11 +1,7 @@
 ### Hi there 👋
 ### My name is Sean Loveland and welcome to my profile! 😊
 
-- 😄 Pronouns: He/Him/His
-- 🔭 I’m currently working on earning my Bachelor's degree in Software Engineering from the University of California, Irvine
-- 🌱 I’m currently learning how to refine my problem solving skills for technical interviews and how to be a great candidate for future job prospects
-- 👯 I’m looking to collaborate on anything dealing with C++, JAVA, or Python!
-- ⚡ Fun fact: I originally was pursuing a degree in chemical engineering, but switched to software engineering after discovering computer science!
+
 <!--
 **sgloveland/sgloveland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
